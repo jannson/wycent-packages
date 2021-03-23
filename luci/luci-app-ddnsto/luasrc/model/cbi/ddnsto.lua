@@ -3,8 +3,8 @@
 
 local m, s
 
-m = Map("ddnsto", translate("DDNS.to"), translate("DDNS.to is a reverse proxy.")
-	.. " <a href=\"https://www.ddnsto.com/\" onclick=\"void(0)\" target=\"_blank\">"
+m = Map("ddnsto", translate("DDNS.to"), translate("Wycent is a reverse proxy.")
+	.. " <a href=\"http://www.wycent.com/\" onclick=\"void(0)\" target=\"_blank\">"
 	.. translate("Official Website")
 	.. "</a>")
 
